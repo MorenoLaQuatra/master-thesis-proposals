@@ -5,10 +5,10 @@ This repository contains the information used for the development a master thesi
 Table of contents
 =================
 
-   * [Instructions and templates](#instructions)
-   * [Thesis proposals](#new_proposals)
-   * [On Going Projects](#ongoing)
-   * [Completed Projects](#completed)
+   * [Instructions and templates](#instructions-and-templates)
+   * [Thesis proposals](#thesis-proposals)
+   * [On Going Projects](#ongoing-projects)
+   * [Completed Projects](#completed-projects)
 
 Instructions and templates
 ============
@@ -16,7 +16,7 @@ Instructions and templates
 Thesis proposals
 ============
 
-On Going Projects
+Ongoing Projects
 ============
 
 Completed Projects
