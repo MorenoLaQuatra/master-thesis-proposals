@@ -16,7 +16,7 @@ Instructions and templates
 Thesis proposals
 ============
 
-### AL meets NLP <a href="mailto:moreno.laquatra@polito.it"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### AL meets NLP <a href="mailto:moreno.laquatra@polito.it?subject=AL meets NLP - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 <a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)"><img src="https://img.shields.io/badge/AL-Active%20Learning-red" alt="Active Learning"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
