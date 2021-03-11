@@ -7,11 +7,13 @@ Table of contents
 
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
-   * [On Going Projects](#ongoing-projects)
+   * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
 Instructions and templates
 ============
+
+The latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw)
 
 Thesis proposals
 ============
