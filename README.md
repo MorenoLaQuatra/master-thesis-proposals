@@ -8,6 +8,7 @@ Table of contents
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
      * [AL meets NLP](#al-meets-nlp-)
+     * [Temporal Summarization](#temporal-summarization)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
@@ -52,6 +53,20 @@ Active Learning for Natural Language Processing. [post](https://crowintelligence
 
 ### Temporal Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 
+News events such as protests, accidents or natural disasters represent a unique information access problem where traditional approaches fail. For example, immediately after an event, the corpus may be sparsely populated with relevant content. Even when, after a few hours, relevant content becomes available, it is often inaccurate or highly redundant. At the same time, crisis events demonstrate a scenario where users urgently need information, especially if they are directly affected by the event. The goal of the TREC Temporal Summarization Track is to develop systems for efficiently monitoring the information associated with an event over time. (source TREC Temporal Summarization Track)[https://sites.google.com/site/temporalsummarization]
+
+The **main objectives** of this thesis are:
+
+- Define and explore the state of the art in Temporal Summarization.
+- Design a new temporal summarization framework able to process data streams from different sources.
+- Simulate the process on existing benchmark dataset
+- Create a web-based dashboard to present live updates about ongoing events.
+
+**References:**
+
+McCreadie, R., Santos, R. L., Macdonald, C., & Ounis, I. (2018). Explicit diversification of event aspects for temporal summarization. ACM Transactions on Information Systems (TOIS), 36(3), 1-31. [article](https://core.ac.uk/download/pdf/111557739.pdf)
+
+Aslam, J., Diaz, F., Ekstrand-Abueg, M., McCreadie, R., Pavlu, V., & Sakai, T. (2015). TREC 2014 temporal summarization track overview. [article](https://apps.dtic.mil/sti/pdfs/ADA618947.pdf)
 
 
 Ongoing Topics
