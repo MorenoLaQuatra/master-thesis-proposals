@@ -8,7 +8,7 @@ Table of contents
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
      * [AL meets NLP](#al-meets-nlp-)
-     * [Temporal Summarization](#temporal-summarization)
+     * [Temporal Summarization](#temporal-summarization-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
