@@ -1,5 +1,11 @@
-Master Thesis Instructions - NLP @ PoliTO
+Master Thesis Instructions
 =================
+Contact Points:
+
+- Luca Cagliero: luca.cagliero@politoit 
+- Moreno La Quatra: moreno.laquatra@polito.it
+
+
 This repository contains the information used for the development a master thesis in the NLP domain at PoliTO.
 
 Table of contents
