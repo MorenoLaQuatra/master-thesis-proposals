@@ -2,7 +2,7 @@ Master Thesis Instructions
 =================
 Contact Points:
 
-- Luca Cagliero: luca.cagliero@politoit 
+- Luca Cagliero: luca.cagliero@polito.it 
 - Moreno La Quatra: moreno.laquatra@polito.it
 
 
