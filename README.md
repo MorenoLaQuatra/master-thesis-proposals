@@ -5,8 +5,8 @@ Contact Points:
 - Luca Cagliero: luca.cagliero@polito.it 
 - Moreno La Quatra: moreno.laquatra@polito.it
 
-
 This repository contains the information used for the development a master thesis in the NLP domain at PoliTO.
+
 
 Table of contents
 =================
@@ -22,6 +22,14 @@ Instructions and templates
 ============
 
 The latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw)
+
+The research work expected during the development of the master thesis will cover the following steps.
+
+### State-of-the-art exploration
+Collect, read and analyze the most recent and relevant publications in the proposed application field. Related works could be summarized and presented by using the Markdown Template available [here](/RW_template.md). Publication could be searched by using the following services:
+- [Google Scholar](https://scholar.google.com/)
+- [Arxiv](https://arxiv.org/multi?group=grp_stat&%2Ffind=Search)
+
 
 A video tutorial explaining how to create a Python package is available here: [YouTube](https://www.youtube.com/watch?v=GIF3LaRqgXo) .
 
