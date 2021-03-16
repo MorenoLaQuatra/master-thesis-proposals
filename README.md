@@ -93,7 +93,7 @@ Aslam, J., Diaz, F., Ekstrand-Abueg, M., McCreadie, R., Pavlu, V., & Sakai, T. (
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> 
 <a href="https://en.wikipedia.org/wiki/Computer_Vision"><img src="https://img.shields.io/badge/CV-Computer%20Vision-green" alt="Computer Vision"></a>
 
-You are reading this description by using your vision, moreover, it should deliver information by the means of text. You can find an explaination of Multimodal learning in videos, schemes, images, podcasts. This is multimodal learning, it consists of several techniques that are able to combine the input from different modalities (images, videos, audio, text, etc.) at _the same time_. 
+You can find an explaination of Multimodal learning in videos, schemes, images, podcasts. This is multimodal learning, it consists of several techniques that are able to combine the input from different modalities (images, videos, audio, text, etc.) at _the same time_. 
 **Multi** refers to the simultaneous process.
 **Modal** refers to the modalities (images, audios, videos, etc.).
 **Learning** refers to the automated process involved (machine or deep learning).
