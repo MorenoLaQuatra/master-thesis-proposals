@@ -15,6 +15,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [AL meets NLP](#al-meets-nlp-)
      * [Temporal Summarization](#temporal-summarization-)
+     * [Multimodal Learning](#multimodal-learning-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
@@ -49,7 +50,7 @@ The **main objectives** of this thesis are:
 - Define and propose an Active Learning approach for the fine-tuning of *deep* neural language models.
 - Simulate the process on existing benchmark dataset
 
-**References:**
+**References :books::**
 
 Peshterliev, S., Kearney, J., Jagannatha, A., Kiss, I., & Matsoukas, S. (2019, June). Active Learning for New Domains in Natural Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Industry Papers) (pp. 90-96). [article](https://www.aclweb.org/anthology/N19-2012.pdf)
 
@@ -61,7 +62,7 @@ Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Na
 
 Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
-**Interesting projects:**
+**Interesting projects :computer::**
 
 - [modAL](https://github.com/modAL-python/modAL)
 - [libact](https://github.com/ntucllab/libact)
@@ -81,11 +82,37 @@ The **main objectives** of this thesis are:
 - Simulate the process on existing benchmark dataset
 - Create a web-based dashboard to present live updates about ongoing events.
 
-**References:**
+**References :books::**
 
 McCreadie, R., Santos, R. L., Macdonald, C., & Ounis, I. (2018). Explicit diversification of event aspects for temporal summarization. ACM Transactions on Information Systems (TOIS), 36(3), 1-31. [article](https://core.ac.uk/download/pdf/111557739.pdf)
 
 Aslam, J., Diaz, F., Ekstrand-Abueg, M., McCreadie, R., Pavlu, V., & Sakai, T. (2015). TREC 2014 temporal summarization track overview. [article](https://apps.dtic.mil/sti/pdfs/ADA618947.pdf)
+
+### Multimodal Learning <a href="mailto:moreno.laquatra@polito.it?subject=Multimodal Learning - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> 
+<a href="https://en.wikipedia.org/wiki/Computer_Vision"><img src="https://img.shields.io/badge/CV-Computer%20Vision-green" alt="Computer Vision"></a>
+
+You are reading this description by using your vision, moreover, it should deliver information by the means of text. You can find an explaination of Multimodal learning in videos, schemes, images, podcasts. This is multimodal learning, it consists of several techniques that are able to combine the input from different modalities (images, videos, audio, text, etc.) at _the same time_. 
+**Multi** refers to the simultaneous process.
+**Modal** refers to the modalities (images, audios, videos, etc.).
+**Learning** refers to the automated process involved (machine or deep learning).
+
+The **main objectives** of this thesis are:
+
+- Define and explore the state of the art in Multimodal learning.
+- Investigate the deep learning techniques that can be designed or adapted for a multimodal scenario. 
+- Simulate the process on existing multimodal benchmark dataset to prove the effectiveness of the designed methodology.
+
+**References :books::**
+
+Hu, R., & Singh, A. (2021). Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer. arXiv preprint arXiv:2102.10772. [article](https://arxiv.org/abs/2102.10772)
+
+Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (2021). Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs. arXiv preprint arXiv:2101.12059. [article](https://arxiv.org/abs/2101.12059)
+
+**Interesting projects :computer::**
+- [List of updated references](https://github.com/pliang279/awesome-multimodal-ml)
+- [MMF: multimodal framework](https://mmf.sh/)
 
 
 Ongoing Topics
