@@ -34,7 +34,7 @@ bibtex citation
 
 
 ### Extracting highlights of scientific articles: A supervised summarization approach
-**Published:** 01-12-2020 (month-day-year)
+**Published:** 12-01-2020
 
 **Paper:** [https://www.sciencedirect.com/science/article/abs/pii/S0957417420304838](https://www.sciencedirect.com/science/article/abs/pii/S0957417420304838)
 
