@@ -108,6 +108,8 @@ The **main objectives** of this thesis are:
 
 Hu, R., & Singh, A. (2021). Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer. arXiv preprint arXiv:2102.10772. [article](https://arxiv.org/abs/2102.10772)
 
+Lu, J., Batra, D., Parikh, D., & Lee, S. (2019). Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks. arXiv preprint arXiv:1908.02265. [article](https://arxiv.org/abs/1908.02265)
+
 Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (2021). Vx2Text: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs. arXiv preprint arXiv:2101.12059. [article](https://arxiv.org/abs/2101.12059)
 
 **Interesting projects :computer::**
