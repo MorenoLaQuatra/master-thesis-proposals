@@ -25,6 +25,10 @@ Relevant publications in YOUR_DOMAIN
 - The results are computed using...
 - The architecture leverages on...
 
+**Abstract:**
+
+
+
 **Bibtex:**
 
 ```
@@ -43,6 +47,11 @@ bibtex citation
 **Code:** [https://github.com/MorenoLaQuatra/domain-specific-academic-dataset](https://github.com/MorenoLaQuatra/domain-specific-academic-dataset)
 
 **Dataset:** [https://github.com/MorenoLaQuatra/domain-specific-academic-dataset](https://github.com/MorenoLaQuatra/domain-specific-academic-dataset)
+
+
+**Abstract:**
+
+Scientific articles can be annotated with short sentences, called highlights, providing readers with an at-a-glance overview of the main findings. Highlights are usually manually specified by the authors. This paper presents a supervised approach, based on regression techniques, with the twofold aim at automatically extracting highlights of past articles with missing annotations and simplifying the process of manually annotating new articles. To this end, regression models are trained on a variety of features extracted from previously annotated articles. The proposed approach extends existing extractive approaches by predicting a similarity score, based on n-gram co-occurrences, between article sentences and highlights. The experimental results, achieved on a benchmark collection of articles ranging over heterogeneous topics, show that the proposed regression models perform better than existing methods, both supervised and not.
 
 **Highlights:**
 - This paper introduces a new technique for the extraction of highlights of research papers.
