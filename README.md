@@ -24,12 +24,20 @@ Instructions and templates
 
 The latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw)
 
+The first step is to create a GitHub Educational account and create an ad-hoc repository containing all relevant code and information for the master thesis.
+
 The research work expected during the development of the master thesis will cover the following steps.
 
 ### State-of-the-art exploration
 Collect, read and analyze the most recent and relevant publications in the proposed application field. Related works could be summarized and presented by using the Markdown Template available [here](/RW_template.md). Publication could be searched by using the following services:
 - [Google Scholar](https://scholar.google.com/)
 - [Arxiv](https://arxiv.org/multi?group=grp_stat&%2Ffind=Search)
+
+### Data collection and finding
+The majority of the thesis requires a step of data collection or data search. 
+During the exploration of the state of the art the student is asked to collect and organize the data used by each publication.
+Dataset must be presented in an organized way by expoiting the Markdown template available [here](/DS_template.md)
+If a new data collection is created/parsed please create a specific Markdown file (template available [here](/NEWDS_template.md)) explaining both the data collection procedure and the statistics of the data collection.
 
 
 A video tutorial explaining how to create a Python package is available here: [YouTube](https://www.youtube.com/watch?v=GIF3LaRqgXo) .
