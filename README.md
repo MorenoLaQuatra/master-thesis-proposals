@@ -56,16 +56,18 @@ Peshterliev, S., Kearney, J., Jagannatha, A., Kiss, I., & Matsoukas, S. (2019, J
 
 Schröder, C., & Niekler, A. (2020). A Survey of Active Learning for Text Classification using Deep Neural Networks. arXiv preprint arXiv:2008.07267. [article](https://arxiv.org/pdf/2008.07267.pdf)
 
-**Relevant Posts:**
-
-Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Natural-Language Understanding [post](https://www.amazon.science/blog/active-learning-algorithmically-selecting-training-data-to-improve-alexas-natural-language-understanding)
-
-Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
 **Interesting projects :computer::**
 
 - [modAL](https://github.com/modAL-python/modAL)
 - [libact](https://github.com/ntucllab/libact)
+
+
+**Additional Material:**
+
+Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Natural-Language Understanding [post](https://www.amazon.science/blog/active-learning-algorithmically-selecting-training-data-to-improve-alexas-natural-language-understanding)
+
+Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
 
 ### Temporal Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
@@ -115,6 +117,12 @@ Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (202
 **Interesting projects :computer::**
 - [List of updated references](https://github.com/pliang279/awesome-multimodal-ml)
 - [MMF: multimodal framework](https://mmf.sh/)
+
+**Additional Material:**
+
+- [BERT Can See Out of the Box] (https://www.youtube.com/watch?v=K2ho2zoulT4)
+- [Learning Visiolinguistic Representations with ViLBERT w/ Stefan Lee - Podcast] (https://www.youtube.com/watch?v=LDrQgIhXlk8)
+- [Vilbert talk](https://www.youtube.com/watch?v=hFVM1PylYZI) [demo](https://vilbert.cloudcv.org/)
 
 
 Ongoing Topics
