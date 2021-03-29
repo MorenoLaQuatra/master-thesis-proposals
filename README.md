@@ -128,8 +128,8 @@ Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (202
 
 **Additional Material:**
 
-- [BERT Can See Out of the Box] (https://www.youtube.com/watch?v=K2ho2zoulT4)
-- [Learning Visiolinguistic Representations with ViLBERT w/ Stefan Lee - Podcast] (https://www.youtube.com/watch?v=LDrQgIhXlk8)
+- [BERT Can See Out of the Box](https://www.youtube.com/watch?v=K2ho2zoulT4)
+- [Learning Visiolinguistic Representations with ViLBERT w/ Stefan Lee - Podcast](https://www.youtube.com/watch?v=LDrQgIhXlk8)
 - [Vilbert talk](https://www.youtube.com/watch?v=hFVM1PylYZI) [demo](https://vilbert.cloudcv.org/)
 
 
