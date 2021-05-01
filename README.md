@@ -139,6 +139,3 @@ Ongoing Topics
 ### Text Summarization <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> <a href="https://en.wikipedia.org/wiki/Automatic_summarization"><img src="https://img.shields.io/badge/ATS-Automatic%20Text%20Summarization-blue" alt="Automatic Text Summarization"></a>
 ### Multimodal Learning <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> <a href="https://en.wikipedia.org/wiki/Computer_Vision"><img src="https://img.shields.io/badge/CV-Computer%20Vision-green" alt="Computer Vision"></a>
 
-
-Published Thesis
-============
