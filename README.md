@@ -97,6 +97,8 @@ McCreadie, R., Santos, R. L., Macdonald, C., & Ounis, I. (2018). Explicit divers
 
 Aslam, J., Diaz, F., Ekstrand-Abueg, M., McCreadie, R., Pavlu, V., & Sakai, T. (2015). TREC 2014 temporal summarization track overview. [article](https://apps.dtic.mil/sti/pdfs/ADA618947.pdf)
 
+Chen Lin, Zhichao Ouyang, Xiaoli Wang, Hui Li, and Zhenhua Huang. 2021. Preserve Integrity in Realtime Event Summarization. ACM Trans. Knowl. Discov. Data 15, 3, Article 49 (April 2021), 29 pages. DOI:https://doi.org/10.1145/3442344 [article](https://dl-acm-org.ezproxy.biblio.polito.it/doi/pdf/10.1145/3442344)
+
 
 Ongoing Topics
 ============
