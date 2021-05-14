@@ -98,7 +98,7 @@ The **main objectives** of this thesis are:
 
 Sentiment analysis is one of the most important task in several NLP pipelines.
 It consists in the analysis of text for classifying its sentiment being both positive or negative.
-Generative models such as [GPT3]() open a large set of possibilities in this scenario.
+Generative models such as [GPT3](https://arxiv.org/abs/2005.14165) open a large set of possibilities in this scenario.
 This master thesis will cover both generative language and sentiment analysis.
 
 The **main objectives** of this thesis are:
