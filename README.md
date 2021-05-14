@@ -15,6 +15,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [AL meets NLP](#al-meets-nlp-)
      * [Temporal Summarization](#temporal-summarization-)
+     * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
@@ -91,13 +92,26 @@ The **main objectives** of this thesis are:
 - Simulate the process on existing benchmark dataset
 - Create a web-based dashboard to present live updates about ongoing events.
 
+### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+Sentiment analysis is one of the most important task in several NLP pipelines.
+It consists in the analysis of text for classifying its sentiment being both positive or negative.
+Generative models such as [GPT3]() open a large set of possibilities in this scenario.
+This master thesis will cover both generative language and sentiment analysis.
+
+The **main objectives** of this thesis are:
+
+- Define and explore the state of the art in Language Generation.
+- Analyze state of the art methodologies in Sentiment Anaysis.
+- Simulate an innovative pipeline on existing benchmark dataset.
+
 **References :books::**
+Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinion mining. In A practical guide to sentiment analysis (pp. 107-134). Springer, Cham. [article](https://link.springer.com/chapter/10.1007/978-3-319-55394-8_6)
 
-McCreadie, R., Santos, R. L., Macdonald, C., & Ounis, I. (2018). Explicit diversification of event aspects for temporal summarization. ACM Transactions on Information Systems (TOIS), 36(3), 1-31. [article](https://core.ac.uk/download/pdf/111557739.pdf)
+Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
 
-Aslam, J., Diaz, F., Ekstrand-Abueg, M., McCreadie, R., Pavlu, V., & Sakai, T. (2015). TREC 2014 temporal summarization track overview. [article](https://apps.dtic.mil/sti/pdfs/ADA618947.pdf)
-
-Chen Lin, Zhichao Ouyang, Xiaoli Wang, Hui Li, and Zhenhua Huang. 2021. Preserve Integrity in Realtime Event Summarization. ACM Trans. Knowl. Discov. Data 15, 3, Article 49 (April 2021), 29 pages. DOI:https://doi.org/10.1145/3442344 [article](https://dl-acm-org.ezproxy.biblio.polito.it/doi/pdf/10.1145/3442344)
 
 
 Ongoing Topics
