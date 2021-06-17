@@ -31,7 +31,7 @@ The research work expected during the development of the master thesis will cove
 ### State-of-the-art exploration
 Collect, read and analyze the most recent and relevant publications in the proposed application field. Related works could be summarized and presented by using the Markdown Template available [here](/RW_template.md). Publication could be searched by using the following services:
 - [Google Scholar](https://scholar.google.com/)
-- [Arxiv](https://arxiv.org/multi?group=grp_stat&%2Ffind=Search)
+- [Arxiv](https://arxiv.org/search/)
 
 ### Data collection and finding
 The majority of the thesis requires a step of data collection or data search. 
