@@ -14,7 +14,6 @@ Table of contents
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
      * [AL meets NLP](#al-meets-nlp-)
-     * [Temporal Summarization](#temporal-summarization-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
