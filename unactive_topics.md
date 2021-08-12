@@ -8,7 +8,7 @@ Table of contents
 Thesis proposals
 ============
 
-### Multimodal Learning <a href="mailto:moreno.laquatra@polito.it?subject=Multimodal Learning - YOUR NAME HERE"><img src="https://shields.io/badge/-not-available-red" alt="Not Available"></a>
+### Multimodal Learning <a href="mailto:moreno.laquatra@polito.it?subject=Multimodal Learning - YOUR NAME HERE"><img src="https://shields.io/badge/-not available-red" alt="Not Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> 
 <a href="https://en.wikipedia.org/wiki/Computer_Vision"><img src="https://img.shields.io/badge/CV-Computer%20Vision-green" alt="Computer Vision"></a>
@@ -42,7 +42,7 @@ Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (202
 - [Learning Visiolinguistic Representations with ViLBERT w/ Stefan Lee - Podcast](https://www.youtube.com/watch?v=LDrQgIhXlk8)
 - [Vilbert talk](https://www.youtube.com/watch?v=hFVM1PylYZI) [demo](https://vilbert.cloudcv.org/)
 
-### Temporal Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-not-available-red" alt="Not Available"></a>
+### Temporal Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-not available-red" alt="Not Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Information_retrieval"><img src="https://img.shields.io/badge/IR-Information%20Retrieval-blue" alt="Information Retrieval"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
