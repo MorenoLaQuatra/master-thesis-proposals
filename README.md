@@ -13,8 +13,9 @@ Table of contents
 
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
-     * [AL meets NLP](#al-meets-nlp-)
+     * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
+     * [Patent Summarization](#patent-summarization-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
@@ -79,7 +80,7 @@ Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Na
 Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
 
-### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it?subject=Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
@@ -99,6 +100,20 @@ The **main objectives** of this thesis are:
 Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinion mining. In A practical guide to sentiment analysis (pp. 107-134). Springer, Cham. [article](https://link.springer.com/chapter/10.1007/978-3-319-55394-8_6)
 
 Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
+
+### Patent Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+TODO
+
+The **main objectives** of this thesis are:
+
+TODO
+
+**References :books::**
+
+TODO
 
 
 
