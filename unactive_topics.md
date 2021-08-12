@@ -2,6 +2,7 @@ Table of contents
 =================
    * [Thesis proposals](#thesis-proposals)
      * [Multimodal Learning](#multimodal-learning-)
+     * [Temporal Summarization](#temporal-summarization-)
 
 
 Thesis proposals
@@ -40,3 +41,17 @@ Lin, X., Bertasius, G., Wang, J., Chang, S. F., Parikh, D., & Torresani, L. (202
 - [BERT Can See Out of the Box](https://www.youtube.com/watch?v=K2ho2zoulT4)
 - [Learning Visiolinguistic Representations with ViLBERT w/ Stefan Lee - Podcast](https://www.youtube.com/watch?v=LDrQgIhXlk8)
 - [Vilbert talk](https://www.youtube.com/watch?v=hFVM1PylYZI) [demo](https://vilbert.cloudcv.org/)
+
+### Temporal Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Temporal summarizaion - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Information_retrieval"><img src="https://img.shields.io/badge/IR-Information%20Retrieval-blue" alt="Information Retrieval"></a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+News events such as protests, accidents or natural disasters represent a unique information access problem where traditional approaches fail. For example, immediately after an event, the corpus may be sparsely populated with relevant content. Even when, after a few hours, relevant content becomes available, it is often inaccurate or highly redundant. At the same time, crisis events demonstrate a scenario where users urgently need information, especially if they are directly affected by the event. The goal of the TREC Temporal Summarization Track is to develop systems for efficiently monitoring the information associated with an event over time. [source TREC Temporal Summarization Track](https://sites.google.com/site/temporalsummarization)
+
+The **main objectives** of this thesis are:
+
+- Define and explore the state of the art in Temporal Summarization.
+- Design a new temporal summarization framework able to process data streams from different sources.
+- Simulate the process on existing benchmark dataset
+- Create a web-based dashboard to present live updates about ongoing events.
