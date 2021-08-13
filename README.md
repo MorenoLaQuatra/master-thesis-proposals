@@ -101,21 +101,27 @@ Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinio
 
 Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
 
-### Patent Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### Patent/Long Documents Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent/Long Documents Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
-TODO
+The long document summarization task entails the parsing, analysis and shortening of long (patent/scientific) content. It can be addressed both using extractive and abstractive techniques both in supervised and unsupervised manner.
 
 The **main objectives** of this thesis are:
 
-TODO
+1. Analyze the state-of-the-art methodologies for long document summarization.
+2. Define a preprocessing pipeline to manipulate long content.
+3. Design a new patent summarization architecture and compare it with state of the art.
 
 **References :books::**
 
-TODO
+Sharma, E., Li, C., & Wang, L. (2019, July). BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 2204-2213).
 
+Shi, T., Keneshloo, Y., Ramakrishnan, N., & Reddy, C. K. (2021). Neural abstractive text summarization with sequence-to-sequence models. ACM Transactions on Data Science, 2(1), 1-37. 
 
+Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents. arXiv preprint arXiv:2106.00130.
+
+Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
 
 Ongoing Topics
 ============
