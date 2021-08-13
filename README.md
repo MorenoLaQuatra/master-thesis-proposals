@@ -17,7 +17,6 @@ Table of contents
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Patent Summarization](#patentlong-documents-summarization-)
    * [Ongoing Topics](#ongoing-topics)
-   * [Published Theisis](#published-thesis)
 
 Instructions and templates
 ============
