@@ -15,7 +15,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
-     * [Patent Summarization](#patent-summarization-)
+     * [Patent Summarization](#patentlong-documents-summarization-)
    * [Ongoing Topics](#ongoing-topics)
    * [Published Theisis](#published-thesis)
 
