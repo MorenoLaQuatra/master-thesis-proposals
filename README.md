@@ -122,6 +122,32 @@ Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). 
 
 Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
 
+### Text Paraphrasing <a href="mailto:moreno.laquatra@polito.it?subject=Text Paraphrasing - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+Text paraphrasing aims at reformulating natural language by conveying the same meaning with different words. For example:
+- I would like to know if tomorrow will be sunny in Turin.
+- Will it be sunny tomorrow in Turin?
+- Will be a sunny day in Turin tomorrow?
+
+All those sentences bring the same meaning using slightly different formulations. The syntactic element are different, however the semantic behind the is the same.
+
+The **main objectives** of this thesis are:
+
+1. Analyze the state-of-the-art in text paraphrasing models.
+2. Exploit latest advancement in deep learning techniques to create a text paraphrasing tool based on Transformers.
+3. Evaluate the proposed pipeline on benchmark datasets ([Quora](https://paperswithcode.com/dataset/quora-question-pairs), [ParaSCI](https://github.com/dqxiu/ParaSCI), etc.).
+
+**References :books::**
+
+Dong, Q., Wan, X., & Cao, Y. ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation. [article](https://aclanthology.org/2021.eacl-main.33.pdf)
+
+Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preserving Paraphrasing. arXiv preprint arXiv:2105.15053. [article](https://aclanthology.org/2021.acl-long.112.pdf)
+
+
+
+
 Ongoing Topics
 ============
 
