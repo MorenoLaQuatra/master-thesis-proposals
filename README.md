@@ -16,6 +16,7 @@ Table of contents
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Patent Summarization](#patentlong-documents-summarization-)
+     * [Automatic Text Paraphrasing](#text-paraphrasing-)
    * [Ongoing Topics](#ongoing-topics)
 
 Instructions and templates
