@@ -17,6 +17,7 @@ Table of contents
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Patent Summarization](#patentlong-documents-summarization-)
      * [Automatic Text Paraphrasing](#text-paraphrasing-)
+     * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
    * [Ongoing Topics](#ongoing-topics)
 
 Instructions and templates
