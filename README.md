@@ -45,7 +45,7 @@ A video tutorial explaining how to create a Python package is available here: [Y
 Thesis proposals
 ============
 
-### AL meets NLP <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] AL meets NLP - YOUR NAME HERE"><img src="https://shields.io/badge/clic-available-green" alt="Available"></a>
+### AL meets NLP <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] AL meets NLP - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 <a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)"><img src="https://img.shields.io/badge/AL-Active%20Learning-red" alt="Active Learning"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
