@@ -84,6 +84,16 @@ Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Na
 Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
 
+
+
+
+
+***
+
+
+
+
+
 ### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
@@ -108,9 +118,22 @@ Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinio
 
 Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
 
+
+
+
+
+***
+
+
+
+
+
 ### Patent/Long Documents Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent/Long Documents Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+![immagine](https://user-images.githubusercontent.com/10062811/138849950-812a45b3-46ef-413a-8e11-2b1631949559.png)
+_image by: https://www.sciencedirect.com/science/article/pii/S1474034619306007?via%3Dihub_
 
 The long document summarization task entails the parsing, analysis and shortening of long (patent/scientific) content. It can be addressed both using extractive and abstractive techniques both in supervised and unsupervised manner.
 
@@ -129,6 +152,16 @@ Shi, T., Keneshloo, Y., Ramakrishnan, N., & Reddy, C. K. (2021). Neural abstract
 Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents. arXiv preprint arXiv:2106.00130.
 
 Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
+
+
+
+
+
+***
+
+
+
+
 
 ### Text Paraphrasing <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Text Paraphrasing - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
@@ -155,6 +188,14 @@ The **main objectives** of this thesis are:
 Dong, Q., Wan, X., & Cao, Y. ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation. [article](https://aclanthology.org/2021.eacl-main.33.pdf)
 
 Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preserving Paraphrasing. arXiv preprint arXiv:2105.15053. [article](https://aclanthology.org/2021.acl-long.112.pdf)
+
+
+
+
+
+***
+
+
 
 
 
@@ -185,6 +226,8 @@ Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preser
 Zhang, Yan, et al. "An unsupervised sentence embedding method by mutual information maximization." arXiv preprint arXiv:2009.12061 (2020). [article](https://arxiv.org/abs/2009.12061)
 
 Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
+
+**Interesting projects :computer::**
 
 [solo-learn library](https://github.com/vturrisi/solo-learn)
 
