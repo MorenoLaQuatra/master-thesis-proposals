@@ -148,6 +148,34 @@ Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preser
 
 
 
+### Unsupervised Representation Learning <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Unsupervised Representation Learning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+Learning effective representations of the input data is one of the main challenges of deep learning algorithms. While it is framed as an independent task, effective representations are beneficial in a variety of contexts and domains. **Contrastive Learning** is one of the hot-topics in current research. It allows exploiting un-annotated data to let the model learns by contrastive examples. It all started in the Computer Vision domain with some groundbreaking publications (e.g., [SimCLR](https://arxiv.org/abs/2002.05709)), however, at the time of writing, almost 400 papers have been published both for CV and NLP.
+
+The **main objectives** of this thesis are:
+
+1. Analyze the state-of-the-art in contrastive learning and data augmentation techniques (mainly in NLP).
+2. Find interesting spots where Contrastive Learning can be effectively exploited (e.g., structured data representation)
+3. Define a novel contrastive learning algorithm and demonstrate its effectiveness in real-world scenarios. The model should be trained and evaluated on benchmark dataset (the Master Thesis could involve also data collection).
+
+
+**References :books::**
+
+Radford, Alec, et al. "Learning transferable visual models from natural language supervision." arXiv preprint arXiv:2103.00020 (2021). [article](https://arxiv.org/abs/2103.00020)
+
+Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020. [article](https://arxiv.org/abs/2002.05709) 
+
+Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preserving Paraphrasing. arXiv preprint arXiv:2105.15053. [article](https://aclanthology.org/2021.acl-long.112.pdf)
+
+Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
+
+[solo-learn library](https://github.com/vturrisi/solo-learn)
+
+[TensorFlow Similarity](https://github.com/tensorflow/similarity)
+
+
 
 Ongoing Topics
 ============
