@@ -50,6 +50,9 @@ Thesis proposals
 <a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)"><img src="https://img.shields.io/badge/AL-Active%20Learning-red" alt="Active Learning"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
+![immagine](https://user-images.githubusercontent.com/10062811/138847790-ee16d16f-4583-42e5-8f5c-f2448f5b9898.png)
+_image source: https://www.semanticscholar.org/paper/Deep-active-learning-using-Monte-Carlo-Dropout-Moura/5418d0d92165270afa20cf84e93b0beeba41202f_
+
 Active Learning is a subfield of machine learning that aims at reducing the number of supervised samples needed to train a machine learning model. 
 It include an human-in-the-loop procedure aimed at selecting the most relevant examples for model's learning.
 
@@ -84,6 +87,9 @@ Active Learning for Natural Language Processing. [post](https://crowintelligence
 ### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+![immagine](https://user-images.githubusercontent.com/10062811/138848047-665b02df-33a9-4d23-8cb1-073c55be7884.png)
+_image by: https://github.com/soobinseo/cycle-gan_
 
 Sentiment analysis is one of the most important task in several NLP pipelines.
 It consists in the analysis of text for classifying its sentiment being both positive or negative.
@@ -128,6 +134,9 @@ Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSu
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
+![synonymNew](https://user-images.githubusercontent.com/10062811/138848869-d0b5693a-7574-41e7-9411-61e8b5bafdad.gif)
+_image by: https://quillbot.com/_
+
 Text paraphrasing aims at reformulating natural language by conveying the same meaning with different words. For example:
 - I would like to know if tomorrow will be sunny in Turin.
 - Will it be sunny tomorrow in Turin?
@@ -153,6 +162,9 @@ Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preser
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
+![immagine](https://user-images.githubusercontent.com/10062811/138849271-71e64021-1ada-46a1-b4f6-9a1d1838c1ee.png)
+_image by: https://arxiv.org/abs/2009.12061_
+
 Learning effective representations of the input data is one of the main challenges of deep learning algorithms. While it is framed as an independent task, effective representations are beneficial in a variety of contexts and domains. **Contrastive Learning** is one of the hot-topics in current research. It allows exploiting un-annotated data to let the model learns by contrastive examples. It all started in the Computer Vision domain with some groundbreaking publications (e.g., [SimCLR](https://arxiv.org/abs/2002.05709)), however, at the time of writing, almost 400 papers have been published both for CV and NLP.
 
 The **main objectives** of this thesis are:
@@ -169,6 +181,8 @@ Radford, Alec, et al. "Learning transferable visual models from natural language
 Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020. [article](https://arxiv.org/abs/2002.05709) 
 
 Hosking, T., & Lapata, M. (2021). Factorising Meaning and Form for Intent-Preserving Paraphrasing. arXiv preprint arXiv:2105.15053. [article](https://aclanthology.org/2021.acl-long.112.pdf)
+
+Zhang, Yan, et al. "An unsupervised sentence embedding method by mutual information maximization." arXiv preprint arXiv:2009.12061 (2020). [article](https://arxiv.org/abs/2009.12061)
 
 Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)
 
