@@ -45,7 +45,7 @@ A video tutorial explaining how to create a Python package is available here: [Y
 Thesis proposals
 ============
 
-### AL meets NLP <a href="mailto:moreno.laquatra@polito.it?subject=AL meets NLP - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### AL meets NLP <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] AL meets NLP - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 <a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)"><img src="https://img.shields.io/badge/AL-Active%20Learning-red" alt="Active Learning"></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
@@ -80,7 +80,7 @@ Active Learning: Algorithmically Selecting Training Data to Improve Alexa’s Na
 Active Learning for Natural Language Processing. [post](https://crowintelligence.org/2020/06/04/active-learning-for-natural-language-processing/)
 
 
-### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it?subject=Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
@@ -123,7 +123,7 @@ Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). 
 
 Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
 
-### Text Paraphrasing <a href="mailto:moreno.laquatra@polito.it?subject=Text Paraphrasing - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
+### Text Paraphrasing <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Text Paraphrasing - YOUR NAME HERE"><img src="https://shields.io/badge/-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
