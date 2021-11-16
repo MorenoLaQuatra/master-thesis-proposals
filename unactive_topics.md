@@ -3,6 +3,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Multimodal Learning](#multimodal-learning-)
      * [Temporal Summarization](#temporal-summarization-)
+     * [Patent Summarization](#patentlong-documents-summarization-)
 
 
 Thesis proposals
