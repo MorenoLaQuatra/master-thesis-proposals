@@ -15,7 +15,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
-     * [Patent Summarization](#patentlong-documents-summarization-)
+     * Patent Summarization (Not Available)
      * [Automatic Text Paraphrasing](#text-paraphrasing-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
    * [Ongoing Topics](#ongoing-topics)
@@ -117,22 +117,6 @@ The **main objectives** of this thesis are:
 Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinion mining. In A practical guide to sentiment analysis (pp. 107-134). Springer, Cham. [article](https://link.springer.com/chapter/10.1007/978-3-319-55394-8_6)
 
 Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
-
-
-
-
-
-***
-
-
-
-
-
-### Patent/Long Documents Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent/Long Documents Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-red" alt="Not Available"></a>
-
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
-
-
 
 
 
