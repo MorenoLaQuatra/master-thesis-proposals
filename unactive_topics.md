@@ -55,3 +55,29 @@ The **main objectives** of this thesis are:
 - Design a new temporal summarization framework able to process data streams from different sources.
 - Simulate the process on existing benchmark dataset
 - Create a web-based dashboard to present live updates about ongoing events.
+
+
+### Patent/Long Documents Summarization <a href="mailto:moreno.laquatra@polito.it?subject=Patent/Long Documents Summarization - YOUR NAME HERE"><img src="https://shields.io/badge/-not available-red" alt="Not Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+![immagine](https://user-images.githubusercontent.com/10062811/138849950-812a45b3-46ef-413a-8e11-2b1631949559.png)
+_image by: https://www.sciencedirect.com/science/article/pii/S1474034619306007?via%3Dihub_
+
+The long document summarization task entails the parsing, analysis and shortening of long (patent/scientific) content. It can be addressed both using extractive and abstractive techniques both in supervised and unsupervised manner.
+
+The **main objectives** of this thesis are:
+
+1. Analyze the state-of-the-art methodologies for long document summarization.
+2. Define a preprocessing pipeline to manipulate long content.
+3. Design a new patent summarization architecture and compare it with state of the art.
+
+**References :books::**
+
+Sharma, E., Li, C., & Wang, L. (2019, July). BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 2204-2213).
+
+Shi, T., Keneshloo, Y., Ramakrishnan, N., & Reddy, C. K. (2021). Neural abstractive text summarization with sequence-to-sequence models. ACM Transactions on Data Science, 2(1), 1-37. 
+
+Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents. arXiv preprint arXiv:2106.00130.
+
+Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
