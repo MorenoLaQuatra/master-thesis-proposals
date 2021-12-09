@@ -15,7 +15,6 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
-     * Patent Summarization (Not Available)
      * [Automatic Text Paraphrasing](#text-paraphrasing-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
    * [Ongoing Topics](#ongoing-topics)
