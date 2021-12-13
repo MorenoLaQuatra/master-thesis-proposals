@@ -17,7 +17,7 @@ Table of contents
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Automatic Text Paraphrasing](#text-paraphrasing-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
-   * [Ongoing Topics](#ongoing-topics)
+   * [Graduated Students](#graduated-students)
 
 Instructions and templates
 ============
@@ -196,8 +196,8 @@ Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io
 [TensorFlow Similarity](https://github.com/tensorflow/similarity)
 
 
-
-Ongoing Topics
+Graduated Students
 ============
 
-### Text Summarization <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a> <a href="https://en.wikipedia.org/wiki/Automatic_summarization"><img src="https://img.shields.io/badge/ATS-Automatic%20Text%20Summarization-blue" alt="Automatic Text Summarization"></a>
+- Simone Manni (2021) [@simonemanni](https://github.com/simonemanni)
+- Sofia Perosin (2021) [@sofiaperosin](https://github.com/sofiaperosin)
