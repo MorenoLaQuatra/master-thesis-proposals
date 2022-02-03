@@ -15,8 +15,8 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
-     * [Automatic Text Paraphrasing](#text-paraphrasing-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
+     * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
    * [Graduated Students](#graduated-students)
 
 Instructions and templates
@@ -125,7 +125,7 @@ Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis usi
 
 
 
-### Text Paraphrasing <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Text Paraphrasing - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Text Paraphrasing <a href="#"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Not Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
@@ -194,6 +194,43 @@ Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io
 [solo-learn library](https://github.com/vturrisi/solo-learn)
 
 [TensorFlow Similarity](https://github.com/tensorflow/similarity)
+
+
+
+***
+
+
+
+
+
+### NLP-aided voice cloning <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] NLP-aided Voice Cloning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20Processing-yellow" alt="Audio Processing"></a>
+
+![immagine](https://lh3.googleusercontent.com/XMJlFDtiFU7WtZYnPDMDhT6jTFEXvTpY7c7sY70PtTkzEIDm6DvUv5nvHHwbOrUrDckS34aIu5fiZx0615p1-nf3rFxzhza387ud=w1440)
+_image by: https://arxiv.org/abs/2009.12061_
+
+What if you can speak with someone else voice? _Voice imitation_ is usually challenging from an human perspective. It requires both specific training and great voice flexibility. This thesis aims at exploring the intersection of audio and natural language processing domain for the task of voice cloning.
+
+The **main objectives** of this thesis are:
+
+1. Analyze the state-of-the-art voice cloning.
+2. Leverage state-of-the-art NLP models.
+3. Define a novel approach and demonstrate its effectiveness both using benchmark datasets and real-world data (Master Thesis could involve also data collection).
+
+
+**References :books::**
+
+Voice Cloning: a Multi-Speaker Text-to-Speech Synthesis Approach based on Transfer Learning [article](https://arxiv.org/abs/2102.05630)
+
+Neural Voice Cloning with a Few Samples [article](https://proceedings.neurips.cc/paper/2018/file/4559912e7a94a9c32b09d894f2bc3c82-Paper.pdf) 
+
+[Blog post](https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b)
+
+**Interesting projects :computer::**
+
+[Real time voice cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 
 Graduated Students
