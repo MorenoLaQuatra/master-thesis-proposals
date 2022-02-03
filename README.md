@@ -209,7 +209,8 @@ Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
 
 ![immagine](https://lh3.googleusercontent.com/XMJlFDtiFU7WtZYnPDMDhT6jTFEXvTpY7c7sY70PtTkzEIDm6DvUv5nvHHwbOrUrDckS34aIu5fiZx0615p1-nf3rFxzhza387ud=w1440)
-_image by: https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
+
+_image by: https://deepmind.com/blog/article/wavenet-generative-model-raw-audio_
 
 What if you can speak with someone else voice? _Voice imitation_ is usually challenging from an human perspective. It requires both specific training and great voice flexibility. This thesis aims at exploring the intersection of audio and natural language processing domain for the task of voice cloning.
 
