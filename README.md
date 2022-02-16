@@ -17,7 +17,7 @@ Table of contents
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
      * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
-     * [Efficent AI-powered platform for scientific literature](#efficient-ai-powered-platform-for-scientific-literature-) **NEW**
+     * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
    * [Graduated Students](#graduated-students)
 
 Instructions and templates
