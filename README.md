@@ -17,6 +17,7 @@ Table of contents
      * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
      * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
+     * [Efficent AI-powered platform for scientific literature](#efficient-ai-powered-platform-for-scientific-literature-) **NEW**
    * [Graduated Students](#graduated-students)
 
 Instructions and templates
@@ -232,6 +233,50 @@ Neural Voice Cloning with a Few Samples [article](https://proceedings.neurips.cc
 **Interesting projects :computer::**
 
 [Real time voice cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+
+
+
+
+
+***
+
+
+
+
+
+### Efficent AI-powered platform for scientific literature <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Efficent AI-powered platform for scientific literature - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Software_design"><img src="https://img.shields.io/badge/SW-Sofware%20Design-purple" alt="SW Design"></a>
+
+![immagine](https://contenthub-static.grammarly.com/blog/wp-content/uploads/2021/09/literature-review.jpeg)
+
+_image by: https://grammarly.com_
+
+The task of reviewing the literature for a scientific project is one of the most crucial steps for its success. This thesis is intented to apply several NLP architecture and tools for generating a platform aimed at helping researchers during the academic literature review.
+
+The **main objectives** of this thesis are:
+
+1. Define the scope and the tools for platform develpment.
+2. Leverage state-of-the-art NLP models for classification, summarization, automated scoring, user-item similarity, etc.
+3. Implement, train and make efficient relevant DL architectures that can be used in the platform.
+4. Platform deployment.
+
+
+**References :books::**
+
+ArXiv Sanity [platform](https://arxiv-sanity-lite.com/)
+
+Semantic Scholar [platform](https://www.semanticscholar.org/) 
+
+A Web-based Knowledge Hub for Exploration of MultipleResearch Article Collections [paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462780)
+
+**Interesting projects :computer::**
+
+[arxiv scraper](https://github.com/Mahdisadjadi/arxivscraper)
+
+
 
 
 Graduated Students
