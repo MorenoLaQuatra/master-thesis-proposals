@@ -82,3 +82,40 @@ Shi, T., Keneshloo, Y., Ramakrishnan, N., & Reddy, C. K. (2021). Neural abstract
 Meng, R., Thaker, K., Zhang, L., Dong, Y., Yuan, X., Wang, T., & He, D. (2021). Bringing Structure into Summaries: a Faceted Summarization Dataset for Long Scientific Documents. arXiv preprint arXiv:2106.00130.
 
 Kryściński, W., Rajani, N., Agarwal, D., Xiong, C., & Radev, D. (2021). BookSum: A Collection of Datasets for Long-form Narrative Summarization. arXiv preprint arXiv:2105.08209.
+
+
+
+
+
+
+***
+
+
+
+
+
+### Generative Sentiment Analysis <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Generative Sentiment Analysis - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+![immagine](https://user-images.githubusercontent.com/10062811/138848047-665b02df-33a9-4d23-8cb1-073c55be7884.png)
+_image by: https://github.com/soobinseo/cycle-gan_
+
+Sentiment analysis is one of the most important task in several NLP pipelines.
+It consists in the analysis of text for classifying its sentiment being both positive or negative.
+Generative models such as [GPT3](https://arxiv.org/abs/2005.14165) open a large set of possibilities in this scenario.
+This master thesis will cover both generative language and sentiment analysis.
+
+The **main objectives** of this thesis are:
+
+- Define and explore the state of the art in Language Generation.
+- Analyze state of the art methodologies in Sentiment Anaysis.
+- Simulate an innovative pipeline on existing benchmark dataset.
+
+**References :books::**
+
+Wang, H., & Zhai, C. (2017). Generative models for sentiment analysis and opinion mining. In A practical guide to sentiment analysis (pp. 107-134). Springer, Cham. [article](https://link.springer.com/chapter/10.1007/978-3-319-55394-8_6)
+
+Gupta, R. (2019, May). Data augmentation for low resource sentiment analysis using generative adversarial networks. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7380-7384). IEEE. [article](https://arxiv.org/abs/1902.06818)
+
+
