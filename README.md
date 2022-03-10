@@ -14,7 +14,6 @@ Table of contents
    * [Instructions and templates](#instructions-and-templates)
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
-     * [Generative Sentiment Analysis](#generative-sentiment-analysis-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
      * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
      * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
