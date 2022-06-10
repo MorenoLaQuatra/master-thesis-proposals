@@ -15,6 +15,7 @@ Table of contents
    * [Thesis proposals](#thesis-proposals)
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
+     * [Social media analytics](#social-media-analytics-) **NEW**
      * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
      * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
    * [Graduated Students](#graduated-students)
@@ -164,6 +165,36 @@ Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io
 [TensorFlow Similarity](https://github.com/tensorflow/similarity)
 
 
+
+***
+
+
+
+
+
+### Social media analytics <a href="mailto:moreno.laquatra@polito.it,luca.cagliero@polito.it?subject=[Master Thesis] Social media analytics  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+
+![immagine](https://miro.medium.com/max/1400/0*gJidYapRYKcC9Bz4.gif)
+_image source: https://medium.com/@aadityamonu67/introduction-to-natural-language-processing-nlp-f834c4aa7357_
+
+
+Analyzing social data is the process of examining how people relate to each other in social settings by using data from social networking sites. The goal may simply be understanding human behavior or propagating a story that will be of interest to the target audience. Methods might involve analyzing how data flows within a network, discovering influential nodes (people, entities, etc. ), or discovering trending topics. 
+
+
+The **main objectives** of this thesis are:
+
+1. Analyze the state-of-the-art in NLP applied to multilingual contexts.
+2. Design and implement a machine learning pipeline to extract relevant information from social media posts.
+3. Test and evaluate the proposed methodology on real-world benchmark data collections provided by Facebook and Instagram.
+
+
+**References :books::**
+
+Ferreira, C. H., Murai, F., Silva, A. P., Almeida, J. M., Trevisan, M., Vassio, L., ... & Drago, I. (2021). On the dynamics of political discussions on Instagram: A network perspective. Online Social Networks and Media, 25, 100155. https://arxiv.org/pdf/2109.09152.pdf
+
+Trevisan, M., Vassio, L., & Giordano, D. (2021). Debate on online social networks at the time of COVID-19: An Italian case study. Online Social Networks and Media, 23, 100136. https://arxiv.org/pdf/2106.01013.pdf
 
 ***
 
