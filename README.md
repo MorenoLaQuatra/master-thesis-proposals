@@ -16,7 +16,7 @@ Table of contents
      * [Active Learning meets NLP](#al-meets-nlp-)
      * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
      * [Social media analytics](#social-media-analytics-) **NEW**
-     * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **NEW**
+     * [NLP-aided voice cloning](#nlp-aided-voice-cloning-) **Not available at the moment**
      * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
    * [Graduated Students](#graduated-students)
 
