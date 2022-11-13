@@ -174,7 +174,7 @@ Audio source separation is the task of separating a mixture of audio sources int
 
 The **main objectives** of this thesis are:
 - Analyze the state-of-the-art audio source separation techniques.
-- Leverage modern deep learning architectures to design a novel approach for audio source separation. Specifically, the goal is to apply the proposed approach to the task of separating speech and musical instruments in a music recording.
+- Leverage modern deep learning architectures to design a novel approach for audio source separation. Specifically, the goal is to apply the proposed approach to the task of separating different musical instruments in a music recording.
 - Demonstrate the effectiveness of the proposed approach using benchmark data collections (e.g., [MUSDB18](https://sigsep.github.io/datasets/musdb.html)).
 - (Optional) Extend the proposed approach to the task of separating speech and music in a music recording.
 
