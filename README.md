@@ -12,7 +12,7 @@ Table of contents
 * Natural Language Processing
     * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
     * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
-    * [Smart Recycle Bin](#smart-recycle-bins-) **NEW**
+    * [Smart Recycle Bins](#smart-recycle-bins-) **NEW**
 * Audio Processing
     * [Music Source Separation](#music-source-separation-) **NEW**
     * [Audio Event Detection](#audio-event-detection-) **NEW**
@@ -161,7 +161,7 @@ A Web-based Knowledge Hub for Exploration of MultipleResearch Article Collection
 
 ***
 
-### Smart Recycle Bin <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Smart Recycle Bin - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Smart Recycle Bins <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Smart Recycle Bin - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
