@@ -12,12 +12,13 @@ Table of contents
 * Natural Language Processing
     * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
     * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
+    * [Smart Recycle Bins](#smart-recycle-bins-) **NEW**
 * Audio Processing
     * [Music Source Separation](#music-source-separation-) **NEW**
     * [Audio Event Detection](#audio-event-detection-) **NEW**
 * [Graduated Students](#graduated-students)
 
-Instructions and templates
+Instructions and templates (PoliTO students only)
 ============
 
 If you are a student from Politecnico di Torino the latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw)
@@ -156,6 +157,36 @@ A Web-based Knowledge Hub for Exploration of MultipleResearch Article Collection
 **Interesting projects :computer::**
 
 [arxiv scraper](https://github.com/Mahdisadjadi/arxivscraper)
+
+
+***
+
+### Smart Recycle Bin <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Smart Recycle Bin - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
+
+![immagine](https://www.re-learn.eu/wp-content/uploads/2022/09/Copy-of-SITO-4.0-X-immagini-3-pdf.jpg)
+
+Recycling is a key step for a sustainable future. However, the current recycling process rely on human intervention and can be error-prone. This thesis is a collaboration with [relearn](https://www.re-learn.eu/) and aims at developing a smart recycle bin that can automatically recognize the type of waste and provide the user with the correct recycling instructions.
+The goal of this thesis is to jointly optimize NLP and audio processing models for the task of waste classification and recycling instructions generation.
+
+The **main objectives** of this thesis are:
+- Analyze state-of-the-art models for automatic speech recognition to detect the spoken utterance by the user.
+- Analyze state-of-the-art models for text classification to detect the type of waste and the correct recycling instructions.
+- Benchmark state-of-the-art models both for audio and text classification.
+- Define a novel approach and demonstrate its effectiveness both using benchmark datasets and real-world data (Master Thesis will involve testing the system in real-world scenarios).
+
+**References :books::**
+
+- [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf)
+- [Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition](https://arxiv.org/abs/1804.03209)
+- [WasteNet: A Deep Learning Approach for Waste Classification](https://arxiv.org/abs/2006.05873)
+
+**Interesting projects :computer::**
+
+- [Whisper from OpenAI](https://github.com/openai/whisper)
+- [Sentence-BERT](https://www.sbert.net/)
 
 
 
