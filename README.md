@@ -12,7 +12,7 @@ Table of contents
 * Natural Language Processing
     * [Unsupervised Representation Learning (Contrastive Learning)](#unsupervised-representation-learning-)
     * [Efficent AI-powered platform for scientific literature](#efficent-ai-powered-platform-for-scientific-literature-) **NEW**
-    * [Smart Recycle Bins](#smart-recycle-bins-) **NEW**
+    * [Smart Recycle Bin](#smart-recycle-bins-) **NEW**
 * Audio Processing
     * [Music Source Separation](#music-source-separation-) **NEW**
     * [Audio Event Detection](#audio-event-detection-) **NEW**
