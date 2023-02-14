@@ -193,7 +193,7 @@ The **main objectives** of this thesis are:
 Audio Processing
 ============
 
-### Music Source Separation <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Audio Source Separation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Music Source Separation <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Audio Source Separation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not-available-red" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
 
