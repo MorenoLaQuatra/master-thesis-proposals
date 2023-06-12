@@ -2,7 +2,7 @@ Master Thesis Instructions
 =================
 Contact Point:
 
-- Moreno La Quatra: moreno.laquatra@polito.it
+- Moreno La Quatra: moreno.laquatra@unikore.it
 
 
 Table of contents
@@ -44,7 +44,7 @@ A video tutorial explaining how to create a Python package is available here: [Y
 Natural Language Processing
 ============
 
-### Unsupervised Representation Learning <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Unsupervised Representation Learning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Unsupervised Representation Learning <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] Unsupervised Representation Learning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 
@@ -86,7 +86,7 @@ Lilian Weng - [Contrastive Representation Learning](https://lilianweng.github.io
 
 
 
-### NLP-aided voice cloning <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] NLP-aided Voice Cloning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Not Available"></a>
+### NLP-aided voice cloning <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] NLP-aided Voice Cloning  - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Not Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
@@ -127,7 +127,7 @@ Neural Voice Cloning with a Few Samples [article](https://proceedings.neurips.cc
 
 
 
-### Efficent AI-powered platform for scientific literature <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Efficent AI-powered platform for scientific literature - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Efficent AI-powered platform for scientific literature <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] Efficent AI-powered platform for scientific literature - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 <a href="https://en.wikipedia.org/wiki/Software_design"><img src="https://img.shields.io/badge/SW-Sofware%20Design-purple" alt="SW Design"></a>
@@ -161,7 +161,7 @@ A Web-based Knowledge Hub for Exploration of MultipleResearch Article Collection
 
 ***
 
-### Smart Recycle Bins <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Smart Recycle Bin - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Smart Recycle Bins <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] Audio Source Separation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow" alt="Natural Language Processing"></a>
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
@@ -193,7 +193,7 @@ The **main objectives** of this thesis are:
 Audio Processing
 ============
 
-### Music Source Separation <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Audio Source Separation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
+### Music Source Separation <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] Audio Source Separation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
 
@@ -219,7 +219,7 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Audio Event Detection <a href="mailto:moreno.laquatra@polito.it?subject=[Master Thesis] Audio Event Detection - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Audio Event Detection <a href="mailto:moreno.laquatra@unikore.it?subject=[Master Thesis] Audio Event Detection - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/AP-Audio%20Processing-blue" alt="Audio Processing"></a>
 
