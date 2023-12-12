@@ -40,3 +40,6 @@ This research has the potential to advance both TTS and voice cloning techniques
 - 🗺️ The research will primarily center on languages rooted in Latin and Germanic origins (such as English and Italian).
 - 💼 This thesis is in collaboration with [AudioBoost](https://www.audioboost.it/), a startup focusing on speech technologies.
 - 🤖 The lab has recently acquired two [Ameca robots](https://www.engineeredarts.co.uk/robot/ameca/). Depending on the progress of the thesis, it may be possible to create a working demo to give the robot a more natural voice.
+
+**📞 Contacts:**
+- [Moreno La Quatra](mailto:moreno.laquatra@unikore.it)
