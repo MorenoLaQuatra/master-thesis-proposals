@@ -20,16 +20,17 @@ All master theses under my supervision are conducted following these guidelines:
 
 Furthermore, each thesis should have a specific theme or task to investigate, that must be approved before the thesis work officially begins.
 
-Other Information
-============
+### Other Information
 
 - If you are interested in Speech/Audio related topics and **you are a PoliTO student** you may refer to Alkis's proposals [here](https://github.com/koudounasalkis/Master-Thesis-Proposal).
 
 Graduated Students
 ============
 
+- Damiano Bonaccorsi (2023) - PoliTO - Cross-modal Audio-Text models [@ozerodb](https://github.com/ozerodb/) 
+- Giuseppe Gallipoli (2022) - PoliTO - GAN for Text Style Transfers [@gallipoligiuseppe](https://github.com/gallipoligiuseppe)
 - Simone Manni (2021) - PoliTO [@simonemanni](https://github.com/simonemanni)
 - Sofia Perosin (2021) - PoliTO [@sofiaperosin](https://github.com/sofiaperosin)
-- Giuseppe Gallipoli (2022) - PoliTO [@gallipoligiuseppe](https://github.com/gallipoligiuseppe)
+
   
 If you are a master's student who has recently graduated under my (co-)supervision and you want to be on this list, please contact me [here](mailto:moreno.laquatra@unikore.it?subject=[MasterThesis]NAME_SURNAME)
