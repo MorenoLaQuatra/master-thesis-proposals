@@ -12,6 +12,9 @@ Investigate:
 - **[DAIC-WOZ](https://dcapswoz.ict.usc.edu/)**: Depression diagnosis dataset with speech, text, and PHQ-8 labels.
 - **[E-DAIC](https://dcapswoz.ict.usc.edu/extended-daic-database-download/)**: Extended DAIC-WOZ with additional annotations.
 
+## 📎 Papers:
+- SELF-SUPERVISED REPRESENTATIONS IN SPEECH-BASED DEPRESSION DETECTION [🔗 link]([https://arxiv.org/pdf/2305.12263)
+
 ## 🏗️ Methodology
 1. **SSL Model Benchmarking**
    - Evaluate **Wav2Vec2, HuBERT, Whisper, SpeechT5** for depression detection.
